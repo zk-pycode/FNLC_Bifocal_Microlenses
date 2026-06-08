@@ -3,8 +3,10 @@
   authors:
     - given-names: Zakaria
       family-names: Siddiquee
-      email: zsiddiq3@kent.edu
       orcid: "https://orcid.org/0009-0005-5845-9484"
+    - given-names: Manisha
+      family-names: Talwar
+      orcid: "https://orcid.org/0009-0002-5088-2251"
     - given-names: Antal
       family-names: Jákli
       orcid: "https://orcid.org/0000-0001-8627-7606"
