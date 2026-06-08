@@ -11,7 +11,7 @@
       family-names: Jákli
       orcid: "https://orcid.org/0000-0001-8627-7606"
   title: "FNLC Bifocal Microlenses"
-  version: "1.0.0"
+  version: "1.0.1"
   date-released: "2026-05-11"
   url: "https://doi.org/10.5281/zenodo.20127570"
   license: MIT
