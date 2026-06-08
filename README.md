@@ -23,6 +23,7 @@ The simulated steady-state director textures from each phase are converted to sy
 ```
 Article:
 Talwar, M., Siddiquee, Z., & Jákli, A. Printable Bifocal Microlenses from Ferroelectric Nematic Liquid Crystal Droplets. ACS Applied Materials & Interfaces. https://doi.org/10.1021/acsami.6c06633
+
 Software:
 Siddiquee, Z., Manisha, T., & Jákli, A. (2026). FNLC Bifocal Microlenses (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20127570
 
